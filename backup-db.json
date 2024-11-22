@@ -1,0 +1,58 @@
+{
+    "football": [
+      {
+        "id": 1,
+        "side": "Offense"
+      },
+      {
+        "id": 2,
+        "side": "Defense"
+      },
+      {
+        "id": 3,
+        "side": "Special Teams"
+      }
+    ],
+    "players": [
+      {
+          "id": 1,
+          "name": "Anthony Stevenson",
+          "star": "5*",
+          "pos": "Quarterback",
+          "home": "Montgomery, AL",
+          "footballId": "1"
+        },
+        {
+          "id": 2,
+          "name": "Charlie Lane",
+          "star": "5*",
+          "pos": "Cornerback",
+          "home": "Raleigh, NC",
+          "footballId": "2"
+        },
+        {
+          "id": 3,
+          "name": "Dexter Coleman",
+          "star": "4*",
+          "pos": "Wide Receiver",
+          "home": "Reno, NV ",
+          "footballId": "1"
+        },
+        {
+          "id": 4,
+          "name": "Daniel Morris",
+          "star": "4*",
+          "pos": "Safety",
+          "home": "Boston, MA",
+          "footballId": "2"
+        },
+        {
+          "id": 5,
+          "name": "Keelan Wilcox",
+          "star": "3*",
+          "pos": "Defensive End",
+          "home": "New Orleans, LA",
+          "footballId": "2"
+        }
+    ]
+  }
